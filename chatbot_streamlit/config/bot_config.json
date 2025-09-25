@@ -1,0 +1,10 @@
+{
+  "temperatura_padrao": 0.2,
+  "max_tokens_padrao": 400,
+  "modelo_padrao": "gpt-4.1-nano",
+  "prompts_disponiveis": {
+    "suporte_tecnico": "prompts/prompt_suporte.txt",
+    "assistente_comercial": "prompts/prompt_comercial.txt",
+    "mentor_codigo": "prompts/prompt_mentor.txt"
+  }
+}
